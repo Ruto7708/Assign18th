@@ -5,7 +5,7 @@ body {
 }
 
 .styled-button {
-    background-color: blue;
+    background-color: green; /* Changed from blue to green */
     color: white;
     border: none;
     padding: 10px 20px;
@@ -13,5 +13,5 @@ body {
 }
 
 .styled-button:hover {
-    background-color: darkblue;
+    background-color: darkgreen; /* Updated hover color */
 }
